@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    text-align: center;
+    background-color: blue;
+}
+
+#review {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 245, 183);
+}
+
+p{
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    margin-top: 10px;
+}
